@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^22.10.0"
+  },
+  "scripts": {
+    "test": "npx tsc & node dist/atlas2plist input"
+  }
+}
